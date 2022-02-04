@@ -16,7 +16,7 @@
 
 I am a Web Developer living in Bangladesh. I am a fan of web design, web development, programming, and WordPress. I am an expert in WordPress Theme Development and Theme Customization with several years of experience in this field and as same as in all types of DESIGN… I have created more than 50+ websites. I’m here to serve people by my Good positive Attitude, Character, Skills, and Work done by my Expertise. Customer Satisfaction and Work Full of Quality are what I always promise. Nobody goes empty from my side in terms of Satisfaction and Quality Work. I only have two things to offer: quality service, and quality results. I'm very passionate and dedicated to my work. I have a positive attitude. Feel free to contact me with any queries you may have. I am here to help you. Thank you so much.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelanceranukul)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelanceranukul)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ## 👨‍💻 Expertise:::
 
@@ -24,9 +24,8 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
 ✅ WordPress <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
-✅ Photoshop / Adobe XD <br><br>
+✅ Photoshop / Adobe XD <br>
 
-<br>
 
 <h2 align="left">Languages and Tools:::</h2>
 
@@ -42,7 +41,7 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 ## ☕ Connect with me!
 
