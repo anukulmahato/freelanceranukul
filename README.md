@@ -45,11 +45,11 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
 
 
 <!-- Social site link -->
-[facebooklink]: (https://www.facebook.com/freelancanukul/)
-[twitterlink]: (https://twitter.com/freelancanukul)
-[githublink]: (https://github.com/freelanceranukul)
-[linkedinlink]: (https://www.linkedin.com/in/freelanceranukul/)
-[behancelink]: (https://www.behance.net/freelanceranukul)
+[facebooklink]: https://www.facebook.com/freelancanukul/
+[twitterlink]: https://twitter.com/freelancanukul
+[githublink]: https://github.com/freelanceranukul
+[linkedinlink]: https://www.linkedin.com/in/freelanceranukul/
+[behancelink]: https://www.behance.net/freelanceranukul
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=freelanceranukul&show_icons=true)
