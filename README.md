@@ -12,24 +12,23 @@
 [linkedinlink]: (https://www.linkedin.com/in/freelanceranukul/)
 [behancelink]: (https://www.behance.net/freelanceranukul)
 
-> ## 👨🏼‍💻 MY INTRO
+## 👨🏼‍💻 MY INTRO
 
 I am a Web Developer living in Bangladesh. I am a fan of web design, web development, programming, and WordPress. I am an expert in WordPress Theme Development and Theme Customization with several years of experience in this field and as same as in all types of DESIGN… I have created more than 50+ websites. I’m here to serve people by my Good positive Attitude, Character, Skills, and Work done by my Expertise. Customer Satisfaction and Work Full of Quality are what I always promise. Nobody goes empty from my side in terms of Satisfaction and Quality Work. I only have two things to offer: quality service, and quality results. I'm very passionate and dedicated to my work. I have a positive attitude. Feel free to contact me with any queries you may have. I am here to help you. Thank you so much.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freelanceranukul)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
-> ## 👨‍💻 Expertise:::
->
-> <hr>
-> ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-> ✅ WordPress <br>
-> ✅ JavaScript <br>
-> ✅ PHP <br>
-> ✅ Photoshop / Adobe XD <br><br>
+## 👨‍💻 Expertise:::
+
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ WordPress <br>
+✅ JavaScript <br>
+✅ PHP <br>
+✅ Photoshop / Adobe XD <br><br>
 
 <br>
 
-> <h2 align="left">Languages and Tools:::</h2>
+<h2 align="left">Languages and Tools:::</h2>
 
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -45,7 +44,7 @@ I am a Web Developer living in Bangladesh. I am a fan of web design, web develop
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br>
 
-> ## ☕ Connect with me!
+## ☕ Connect with me!
 
 [<img src='./img/facebook.png' alt='facebook' height='40'>][facebooklink]
 [<img src='./img/twitter.png' alt='twitter' height='40'>][twitterlink]
